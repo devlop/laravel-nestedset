@@ -1,20 +1,8 @@
-[![Build Status](https://travis-ci.org/lazychaser/laravel-nestedset.svg?branch=master)](https://travis-ci.org/lazychaser/laravel-nestedset)
-[![Total Downloads](https://poser.pugx.org/kalnoy/nestedset/downloads.svg)](https://packagist.org/packages/kalnoy/nestedset)
-[![Latest Stable Version](https://poser.pugx.org/kalnoy/nestedset/v/stable.svg)](https://packagist.org/packages/kalnoy/nestedset)
-[![Latest Unstable Version](https://poser.pugx.org/kalnoy/nestedset/v/unstable.svg)](https://packagist.org/packages/kalnoy/nestedset)
-[![License](https://poser.pugx.org/kalnoy/nestedset/license.svg)](https://packagist.org/packages/kalnoy/nestedset)
+# This is a fork of [lazychaser/nestedset](https://github.com/lazychaser/laravel-nestedset).
 
-This is a Laravel 4-8 package for working with trees in relational databases.
+The purpose of this fork is to fix some critical bugs, legacy support is dropped and only Laravel 8 is supported.
 
-*   **Laravel 5.7, 5.8, 6.0, 7.0, 8.0** is supported since v5
-*   **Laravel 5.5, 5.6** is supported since v4.3
-*   **Laravel 5.2, 5.3, 5.4** is supported since v4
-*   **Laravel 5.1** is supported in v3
-*   **Laravel 4** is supported in v2
-
-Although this project is completely free for use, I appreciate any support!
-
--   __[Donate via PayPal](https://www.paypal.me/lazychaser)__
+If the bugs are fixed in [lazychaser/nestedset](https://github.com/lazychaser/laravel-nestedset) this fork will be archived.
 
 __Contents:__
 
